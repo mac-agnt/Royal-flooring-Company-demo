@@ -11,7 +11,9 @@ Pulse is an attached local codebase folder (`Pulse/`), not a GitHub repo. Browse
 - `Pulse/packages/modules/site-visits` — the reusable module fixture
 
 ## Mockup files
-- `Pulse v4 Glass.dc.html` — current direction: dark liquid glass, lime accent, icon rail with
+- `Pulse v4 Glass.dc.html` — current direction: dark liquid glass, bronze accent on navy-black,
+  branded for Royal Flooring Company (Dunboyne, Co. Meath — bronze #b79361 from their crown
+  logo, navy #10263e; owner persona "Daniel"), icon rail with
   hover labels, Home = Helios chat + right rail, plus the real page set (inbox, work queues,
   approvals, directories, universal record page, insights, automations, system health, modules,
   notifications, settings).
